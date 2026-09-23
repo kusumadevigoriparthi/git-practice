@@ -6,6 +6,6 @@ int main(void)
     printf("Learning Git and GitHub\n");
     printf("LED feature development\n");
     printf("Git pull practice\n");
-   
+    printf("Fetch practice\n"); 
     return 0;
 }
